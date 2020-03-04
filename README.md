@@ -1,4 +1,4 @@
-# vue-components-practice
+# vue-components-tutorial
 
 ## Project setup
 ```
